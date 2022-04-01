@@ -18,6 +18,8 @@ al estar dentro de la carpeta app,en dos terminales diferentes se deberan correr
 el proyecto mostrara el logo de React juntos con los datos organizados en una tabla que son traidos
 desde la base de datos mostrara la hora actual en la que se encuentra a la hora de ejecutar y un boton
 que mostrara el arreglo de la base de datos en consola.
-**La idea es mostrar el resultado de las votaciones al dar click en el boton pero por falta de experiencia
+**La idea es mostrar el resultado de las votaciones al dar click en el boton y desabilitar este en las horas especificadas pero por falta de experiencia
 no pude dar resolucion a este  problema en el tiempo que se dispuso para la prueba. 
-  
+
+(GITHUB):
+https://github.com/TwoDD/resultadosPruebaDeVotos  
